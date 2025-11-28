@@ -1,0 +1,24 @@
+# File sensibili
+config.php
+.env
+*.key
+
+# Dipendenze
+vendor/
+node_modules/
+
+# Cache e temporanei
+cache/
+logs/
+*.log
+tmp/
+
+# File sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
