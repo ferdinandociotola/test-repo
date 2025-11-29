@@ -8,8 +8,8 @@ vendor/
 node_modules/
 
 # Cache e temporanei
-cache/
 logs/
+cache/
 *.log
 tmp/
 
@@ -17,6 +17,7 @@ tmp/
 .DS_Store
 Thumbs.db
 desktop.ini
+test-repo/
 
 # Editor
 .vscode/
